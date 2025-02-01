@@ -1,4 +1,5 @@
 # Prerequisites
+*.ld
 *.d
 
 # Object files
